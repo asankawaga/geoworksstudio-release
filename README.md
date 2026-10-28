@@ -10,7 +10,7 @@ This repository distributes the installer. The source code is maintained private
 
 Get the latest installer from the [**Releases**](../../releases) page.
 
-- Current beta: **1.0.0-beta.7**
+- Current beta: **1.0.0-beta.8**
 
 ## Requirements
 
